@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img": "/cardImg.png",
+        "title": "Webbuilder 1",
+        "off": "20%",
+        "tag": "Limited time",
+        "description": "Computer  Modern clasic with wix support",
+        "offerPrice": "$39.96",
+        "originalPrice": "$49.96" 
+    },
+    {
+        "id": 1,
+        "img": "/cardImg.png",
+        "title": "Webbuilder 1",
+        "off": "20%",
+        "tag": "Limited time",
+        "description": "Computer  Modern clasic with wix support",
+        "offerPrice": "$39.96",
+        "originalPrice": "$49.96" 
+    },
+    {
+        "id": 1,
+        "img": "/cardImg.png",
+        "title": "Webbuilder 1",
+        "off": "20%",
+        "tag": "Limited time",
+        "description": "Computer  Modern clasic with wix support",
+        "offerPrice": "$39.96",
+        "originalPrice": "$49.96" 
+    }
+]
